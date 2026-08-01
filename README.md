@@ -3,8 +3,8 @@ This e-portfolio documents my learning journey throughout the twelve units of th
 Check [my e-Portfolio](https://github.com/Ralemadi/Advanced-OOP-Module-e-Portfolio/tree/main)
 
 Content Summary
-Unit 1: 
-Unit 2: 
+- Unit 1: 
+- Unit 2: 
 Unit 3: 
 Unit 4: 
 Unit 5: 
