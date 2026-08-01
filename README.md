@@ -1,2 +1,3 @@
-# Advanced-OOP-Module-e-Portfolio
-This e-portfolio presents a collection of my learning experiences, coding artefacts, design pattern implementations, testing practices, and reflections developed throughout the Advanced Object-Oriented Design and Programming module.
+# Advanced OOP Module e-Portfolio
+This e-portfolio documents my learning journey throughout the twelve units of the Advanced Object-Oriented Design and Programming module. It brings together my unit activities, coding exercises, practical artefacts, design pattern implementations, testing practices, and reflections on the knowledge and skills developed throughout the module.
+Check [my e-Portfolio](https://Ralemadi.github.io/advanced-oop-eportfolio/)
