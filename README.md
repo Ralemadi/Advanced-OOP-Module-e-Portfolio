@@ -3,7 +3,7 @@
 This e-portfolio documents my learning journey throughout the twelve units of the Advanced Object-Oriented Design and Programming module. It brings together my unit activities, coding exercises, practical artefacts, design pattern implementations, testing practices, and reflections on the knowledge and skills developed throughout the module.
 
 
-Content Summary
+**Content Summary**
 - Unit 1: 
 - Unit 2: 
 - Unit 3: 
